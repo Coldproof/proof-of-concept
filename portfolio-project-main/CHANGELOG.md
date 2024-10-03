@@ -11,10 +11,10 @@ the following form: YYYY.0M.0D.
 
 ### Added
 
-- Added information to the 02-component-proof-of-concept
-- Added repo name's proof of concept for SensitiveWordFilter component
-- Designed a basic implementation which is a java file named SensitiveWordFilter.java
-- Added PDFs to the 02-component-proof-of-concept
+- Added information to the `02-component-proof-of-concept`
+- Added repo name's `proof of concept` for SensitiveWordFilter component
+- Designed a basic implementation which is a java file named `SensitiveWordFilter.java`
+- Added PDFs to the `02-component-proof-of-concept`
 
 ## [2024.9.16]
 
