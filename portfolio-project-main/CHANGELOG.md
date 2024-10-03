@@ -6,13 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/) of
 the following form: YYYY.0M.0D.
 
-## [2024.9.16]
+## [2024.10.3]
 
 ### Added
 - Added information to the `02-component-proof-of-concept`
-- Designed a basic implementation
-- Added information to the `02-component-proof-of-concept`
+- Added repo name's `proof of concept` for SensitiveWordFilter component
+- Designed a basic implementation which is a java file named `SensitiveWordFilter.java`
 
+- Added PDFs to the `02-component-proof-of-concept`
 
 
 ## [2024.9.16]
