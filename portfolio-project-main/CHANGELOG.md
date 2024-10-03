@@ -9,6 +9,15 @@ the following form: YYYY.0M.0D.
 ## [2024.9.16]
 
 ### Added
+- Added information to the `02-component-proof-of-concept`
+- Designed a basic implementation
+- Added information to the `02-component-proof-of-concept`
+
+
+
+## [2024.9.16]
+
+### Added
 
 - Added information to the `Pre-Assignment`
 - Designed a SensitiveWordFilter component
