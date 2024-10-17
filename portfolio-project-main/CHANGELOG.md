@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/) of
 the following form: YYYY.0M.0D.
 
+## [2024.10.17]
+
+### Added
+
+- Added diagram to the `03-component-interfaces`
+- Designed `swFilter` interface for SensitiveWordFilter component
+- Designed `swFilterKernel` interface for SensitiveWordFilter component
+- Added a comples of branches for SensitiveWordFilter component
+- Added PDFs to the `03-component-interfaces`
+
 ## [2024.10.3]
 
 ### Added
