@@ -32,14 +32,14 @@ public interface swFilter extends swFilterKernel {
     /**
      * Checks if the provided text contains any sensitive words.
      * 
-     * @param text the text to check
+     * @param text the goal text
      * @return true if at least one sensitive word is found, false otherwise
      * @ensures result == (findSensitiveWords(text).size() > 0)
      */
     boolean hasSensitiveWords(String text);
 
     /**
-     * Marks the sensitive words in the text by adding markers (e.g., "*").
+     * Marks the sensitive words in the text by adding markers.
      * 
      * @param text the text in which to mark sensitive words
      * @return the modified text with sensitive words marked
