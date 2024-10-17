@@ -5,7 +5,7 @@ import java.util.List;
  * This interface defines the minimal functionality for managing
  * sensitive words and detecting them in a given text.
  */
-public interface swFilterKernel {
+public interface swFilterKernel extends Standard {
 
     /**
      * Adds a word to the sensitive word bank.
