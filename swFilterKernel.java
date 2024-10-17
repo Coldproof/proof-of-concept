@@ -18,8 +18,8 @@ public interface swFilterKernel {
     /**
      * Searches the provided text for any sensitive words from the word bank.
      * 
-     * @param text the text to search for sensitive words
-     * @return a list of sensitive words found in the text
+     * @param text the purpose text
+     * @return a list of sensitive words found in it
      * @ensures result is a list of all sensitive words found in the text
      */
     List<String> findSensitiveWords(String text);
