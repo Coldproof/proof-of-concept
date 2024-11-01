@@ -9,7 +9,7 @@ import java.util.Set;
  * and
  * Standard methods to ensure that all secondary methods respect the contracts.
  */
-public abstract class abstractClass implements swFilter {
+public abstract class sensitiveWordFilterSecondary implements swFilter {
 
     // Reference to the sensitive word bank, to be managed by concrete subclasses.
     protected Set<String> sensitiveWordBank;
@@ -101,7 +101,7 @@ public abstract class abstractClass implements swFilter {
             return true;
         if (obj == null || getClass() != obj.getClass())
             return false;
-        abstractClass that = (abstractClass) obj;
+        sensitiveWordFilterSecondary that = (sensitiveWordFilterSecondary) obj;
         return Objects.equals(sensitiveWordBank, that.sensitiveWordBank);
     }
 
